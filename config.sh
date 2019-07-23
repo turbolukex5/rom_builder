@@ -6,8 +6,8 @@ GITHUB_EMAIL=expressluke@turbox.uk
 KBUILD_BUILD_USER="Luke"
 KBUILD_BUILD_HOST="ExpressDrone"
 
-export oem=samsung
-export device=hero2lte
+export oem=motorola
+export device=surnia
 
 ROM="PixelExperience"
 manifest_url="https://github.com/PixelExperience/manifest"
