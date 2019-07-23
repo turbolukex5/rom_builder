@@ -10,7 +10,7 @@ export oem=samsung
 export device=hero2lte
 
 ROM="AospExtended"
-manifest_url="https://github.com/AospExtended/manifest"
+manifest_url="https://github.com/ExpressLuke/manifest"
 export rom_vendor_name="aosp" # This represent the nams used by different rom vendors, Ex - aosp_harpia-userdebug, aosp is vendor name.
 branch="9.x"
 
